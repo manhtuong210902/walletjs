@@ -27,5 +27,8 @@
   "types": "dist/index.d.ts",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/manhtuong210902"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.243"
   }
 }
